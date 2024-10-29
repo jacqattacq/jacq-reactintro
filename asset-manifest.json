@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/jacq-reactintro/static/css/main.1ed18fff.css",
+    "main.js": "/jacq-reactintro/static/js/main.f4baf8b8.js",
+    "static/media/profpic.png": "/jacq-reactintro/static/media/profpic.d557f937d894e0cc95a3.png",
+    "static/media/dogs.JPG": "/jacq-reactintro/static/media/dogs.d59ab42399e058990ffc.JPG",
+    "static/media/sports.JPG": "/jacq-reactintro/static/media/sports.45ea57f001d572ec33e9.JPG",
+    "static/media/knit.JPG": "/jacq-reactintro/static/media/knit.feacaea0e1972ebadb82.JPG",
+    "static/media/pandasnumpy.JPG": "/jacq-reactintro/static/media/pandasnumpy.60dc1050ba45691994fd.JPG",
+    "index.html": "/jacq-reactintro/index.html",
+    "main.1ed18fff.css.map": "/jacq-reactintro/static/css/main.1ed18fff.css.map",
+    "main.f4baf8b8.js.map": "/jacq-reactintro/static/js/main.f4baf8b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed18fff.css",
+    "static/js/main.f4baf8b8.js"
+  ]
+}
